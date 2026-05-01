@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi everyone 👋
+## Apresenteção
 <!--
 **MariaCRSS/MariaCRSS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Olá me chamo Maria Clara e estou cursando Análise de Desenvolvimento de Sistemas.
